@@ -1,2 +1,2 @@
-# GNN_multidimensional_poverty
+# Multidimensional Poverty Prediction with GNNs
 Presentation
